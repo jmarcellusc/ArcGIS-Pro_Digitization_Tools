@@ -21,7 +21,7 @@
 ---
 ## Files
 
-1.   TB: "Line_QC-ZigZag.atbx  (SC: 'Zigzag' & 'MultiPart'  Lines Tool (v1.0))
+1.   ***TB***: "Line_QC-ZigZag.atbx  (***SC***: 'Zigzag' & 'MultiPart'  Lines Tool (v1.0))
 2.   
 
 
@@ -30,7 +30,7 @@
 &nbsp;
 ## Status
 
-1. TB: "Line_QC-ZigZag.atbx  (RQ: Line Out Progress Percentage | RQ: Review)
+1. ***TB***: "Line_QC-ZigZag.atbx  (***RQ***: Line Out Progress Percentage | ***RQ***: Review)
 
 
 
