@@ -21,7 +21,7 @@
 ---
 ## Files
 
-1.   ***TB***: "Line_QC-ZigZag.atbx  (***SC***: 'Zigzag' & 'MultiPart'  Lines Tool (v1.0))
+1.   ***TB***: "Line_QC-ZigZag.atbx  (***SC***: 'Zigzag' & 'MultiPart'  Lines Tool (v1.1))
 2.   
 
 
