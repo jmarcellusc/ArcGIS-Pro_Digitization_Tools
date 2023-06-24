@@ -31,7 +31,8 @@
 ## Status
 
 1. ***TB***: "Line_QC-ZigZag.atbx  (***RQ***: Line Out Progress Percentage | ***RQ***: Review)
-
+*  V1.1 :: Revised Code
+2.   		
 
 
 &nbsp;
