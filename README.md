@@ -8,7 +8,6 @@
 &nbsp;
 
 ### Key Terminology:
-*   TB - "Toolbox"
 *   RQ - "Request"
 *   SC - "Script"
 
@@ -21,8 +20,8 @@
 ---
 ## Files
 
-1.   ***TB***: "Line_QC-ZigZag.atbx  (***SC***: 'Zigzag' & 'MultiPart'  Lines Tool (v1.1))
-2.   
+1.   ***Toolbox***: "Line_QC-ZigZag.atbx  (Lines Tool (v1.1))
+2.   ***Toolbox***: "Polygon_QC-VectorRaster.atbx (Polygon/Raster Tool (v1.1))
 
 
 &nbsp;
@@ -30,9 +29,9 @@
 &nbsp;
 ## Status
 
-1. ***TB***: "Line_QC-ZigZag.atbx  (***RQ***: Line Out Progress Percentage | ***RQ***: Review)
+1. ***Toolbox***: "Line_QC-ZigZag.atbx  (***RQ***: Line Out Progress Percentage | ***RQ***: Review)
 *  V1.1 :: Revised Code
-2.   		
+2. ***Toolbox***: "Polygon_QC-VectorRaster.atbxx  (***RQ***: None (Testing) | ***RQ***: Review)
 
 
 &nbsp;
