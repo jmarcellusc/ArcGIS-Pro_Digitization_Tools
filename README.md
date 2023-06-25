@@ -1,6 +1,6 @@
 # ArcGIS Pro Digitization Tools
 
-***PURPOSE***: Collection to aid and improve geospatial digitization applications. Made for ESRI's ArcGIS Pro as python scripts, utilizing various libraries to include arcpy. Create by <j.marcel.c> .
+***PURPOSE***: Collection to aid and improve geospatial digitization applications. Made for ESRI's ArcGIS Pro as python scripts, utilizing various libraries to include arcpy. Create by <j.marcel.c>. Currently adding various other tools.
 
 
 &nbsp;
