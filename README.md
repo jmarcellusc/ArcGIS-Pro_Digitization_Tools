@@ -1,5 +1,10 @@
 # ArcGIS Pro Digitization Tools
 
+***UPDATES***: As of 2024, I will start revising some script tools for ESRI's ArcGIS Pro. The major reason is code improvement and ESRI's introduction to Apache Engine 
+(they also made changes with some of thier libraries).
+
+***NEW***: A cartographic neatline tool will be introduced, this to make cartographic map neatlines more correct and exact based on what I've seen with the USGS. My old and current tool works but requires improvement in corner point entry.
+
 ***PURPOSE***: Collection to aid and improve geospatial digitization applications. Made for ESRI's ArcGIS Pro as python scripts, utilizing various libraries to include arcpy. Create by <j.marcel.c>. Currently adding various other tools.
 
 
