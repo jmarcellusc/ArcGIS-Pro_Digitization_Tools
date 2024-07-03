@@ -38,3 +38,6 @@ Tools that are in production but require extensive testing and modifications.
 * PDF OCR
 * Point Property Extraction
 
+# Tags
+#ESRI, #ArcGIS #Pro #Digitization #Attribution #Neatline #Increment #GIS 
+
