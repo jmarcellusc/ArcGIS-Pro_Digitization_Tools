@@ -21,10 +21,10 @@ However, we understand the importance of transparency and collaboration. Therefo
 ## ESRI Tools
 ### Completed Tools -
 Tools currently completed and available in the ESRI Tool kit. While tested, if any issue or error arises, please contact me to fix any problems. 
-#### * Attribute Tools
-** Numeric Increment Tool - Version 1.1
+#### * Attribute Tools*
+	* Numeric Increment Tool - Version 1.1
 #### * Geospatial Tools
-** Neatline Creator - Version 2.0
+	* Neatline Creator - Version 2.0
 
 ### Updating Tools -
 Tools that are built but required coding updating. These will be added to the ESRI Tool Kit.
