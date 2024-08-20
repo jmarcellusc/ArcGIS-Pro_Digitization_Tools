@@ -23,14 +23,26 @@ However, we understand the importance of transparency and collaboration. Therefo
 
 
 ## ESRI Tools
-### Completed Tools -
+### List Notes:
 Tools currently completed and available in the ESRI Tool kit. While tested, if any issue or error arises, please contact me to fix any problems. 
 #### * Attribute Tools*
 	* Class Inspector - Version 2.0
  	* Numeric Increment Tool - Version 1.1
   	* Text Correction Tool - Version 3.0
 #### * Geospatial Tools
-	* Neatline Creator - Version 2.0
+	* Map Neatline Creator - Version 2.0
+
+### Class Inspector 
+Version 2.0: Tool checks each entry for leading, trailing spaces as well for empty and single space entries in all transferable datatypes to a string. It also includes an optional check for NULL values.
+
+### Numeric Increment Tool
+Version 1.1: Runs an numeric increment on a single attribute field (either table or feature class). Options include appending a prefix or suffix, modifying the start value, applying a multiplier to the increment, and applying a padding format. Please see 'Use Limitations' for rules.
+
+### Text Correction Tool
+Version 3.0: Efficiently modifies text attributes within a single field. Easily adjust letter case, replace empty or null values with customizable options.
+
+### Map Neatline Creator
+Version 2.0: Creates correct map neat-lines or vertical/horizontal interval lines correct to the direction of coordinates. NOTE: Will not work across Prime Meridian, Antemeridian, and the Equator.
 
 ### Updating Tools -
 Tools that are built but required coding updating. These will be added to the ESRI Tool Kit.
@@ -38,15 +50,16 @@ Tools that are built but required coding updating. These will be added to the ES
 * Polygon Quality Control
 * Database Spell Check 
 * LIAGRE Toolset*
-* Field Text Inspector
-* Field Text Modifier
+* ~~Field Text Inspector~~
+* ~~Field Text Modifier~~
 * Line Property Extraction
 * Map Unit ***GeMS*** Assembler Quality Control (*GeMS* is a USGS Implementation)
 * Editor Tracker Updater
+* Image Color Extraction
 
 ### Implementing Tools - 
 Tools that are in production but require extensive testing and modifications.
-* Image Analysis
+* Image Analysis (various)
 * PDF OCR
 * Point Property Extraction
 
