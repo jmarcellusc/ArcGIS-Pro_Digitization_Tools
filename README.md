@@ -26,7 +26,9 @@ However, we understand the importance of transparency and collaboration. Therefo
 ### Completed Tools -
 Tools currently completed and available in the ESRI Tool kit. While tested, if any issue or error arises, please contact me to fix any problems. 
 #### * Attribute Tools*
-	* Numeric Increment Tool - Version 1.1
+	* Class Inspector - Version 2.0
+ 	* Numeric Increment Tool - Version 1.1
+  	* Text Correction Tool - Version 3.0
 #### * Geospatial Tools
 	* Neatline Creator - Version 2.0
 
