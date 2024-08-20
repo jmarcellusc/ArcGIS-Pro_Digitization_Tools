@@ -44,7 +44,7 @@ Version 3.0: Efficiently modifies text attributes within a single field. Easily 
 ### Map Neatline Creator
 Version 2.0: Creates correct map neat-lines or vertical/horizontal interval lines correct to the direction of coordinates. NOTE: Will not work across Prime Meridian, Antemeridian, and the Equator.
 
-### Updating Tools -
+## Updating Tools -
 Tools that are built but required coding updating. These will be added to the ESRI Tool Kit.
 * Line Quality Control
 * Polygon Quality Control
