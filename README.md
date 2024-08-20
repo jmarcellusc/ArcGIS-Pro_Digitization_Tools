@@ -4,9 +4,13 @@
 **Updates**: As of June 2024; I will start revising some script tools for ESRI's ArcGIS Pro. The major reason is code improvement and ESRI's introduction to Apache Engine (they also made changes with some of their libraries).
 
 
-* **Geographic Data Tools.Zip** - Contains an ESRI Toolbox
+* **Geographic Data Tools.Zip** - Contains an ESRI Toolbox (Updated August 2024)
 	* Attribute Tools (Toolset)
+ 		* Class Inspector
+   		* Numeric Increment Tool
+   		* Text Correction Tool 
 	* Geospatial Tools (Toolset)
+ 		* Map Neatline Creator
 
 **NEW**: A cartographic neatline tool will be introduced, this to make cartographic map neatlines more correct and exact based on what I've seen with the USGS. My old and current tool works but requires improvement in corner point entry.
 
