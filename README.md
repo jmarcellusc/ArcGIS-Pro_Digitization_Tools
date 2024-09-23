@@ -3,6 +3,7 @@
 
 **Updates**: As of June 2024; I will start revising some script tools for ESRI's ArcGIS Pro. The major reason is code improvement and ESRI's introduction to Apache Engine (they also made changes with some of their libraries).
 
+* Added: **Global ID | Domains Tool** - September 2024, in initial build and testing stage. This tool is to add or extract Global ID Feature Datasets and a various of Domains processes. This toolkit will compile various geoprocessing scripts for Global ID and Domains. 
 
 * **Geographic Data Tools.Zip** - Contains an ESRI Toolbox (Updated August 2024)
 	* Attribute Tools (Toolset)
