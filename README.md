@@ -8,6 +8,7 @@
 * **Geographic Data Tools.Zip** - Contains an ESRI Toolbox (Updated August 2024)
 	* Attribute Tools (Toolset)
  		* Class Inspector
+   		* Global ID | Domains Tool
    		* Numeric Increment Tool
    		* Text Correction Tool 
 	* Geospatial Tools (Toolset)
