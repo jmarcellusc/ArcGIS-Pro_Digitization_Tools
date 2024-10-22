@@ -8,6 +8,7 @@
   	* Geologic Structure Analysis (QA/QC)
   	* Feature Line Analysis (QA/QC)
   	* USGS Color Paletter Tool
+  	* GID Intergation with LIGRARE
   		* ...and more.  
 * As of June 2024; I will start revising some script tools for ESRI's ArcGIS Pro. The major reason is code improvement and ESRI's introduction to Apache Engine (they also made changes with some of their libraries).
 
