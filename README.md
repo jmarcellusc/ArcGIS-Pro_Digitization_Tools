@@ -1,7 +1,15 @@
 # ArcGIS Pro Digitization Tools - 
 ## Introduction
 
-**Updates**: As of June 2024; I will start revising some script tools for ESRI's ArcGIS Pro. The major reason is code improvement and ESRI's introduction to Apache Engine (they also made changes with some of their libraries).
+**Updates**: 
+* As of October 2024; The following tools are created but require revision;
+	* Geologic Unit Assembler (QA/QC)
+ 	* Geologic Glossary Compiler
+  	* Geologic Structure Analysis (QA/QC)
+  	* Feature Line Analysis (QA/QC)
+  	* USGS Color Paletter Tool
+  	* .., and more.  
+* As of June 2024; I will start revising some script tools for ESRI's ArcGIS Pro. The major reason is code improvement and ESRI's introduction to Apache Engine (they also made changes with some of their libraries).
 
 * Added: **Global ID | Domains Tool** - September 2024, in initial build and testing stage. This tool is to add or extract Global ID Feature Datasets and a various of Domains processes. This toolkit will compile various geoprocessing scripts for Global ID and Domains. 
 
